@@ -1,14 +1,28 @@
-layout_spectrum: 0.599624
+name: Geschenke
+favicon: null
+layout_spectrum: 0.13252
+typography_spectrum: 0.05889724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7003426
-  brandStrength: 0.4830827
-  lightness: 0.5277173
-  rhythmicContrast: 0.5662162
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-typography_spectrum: 0.05889724
-name: Geschenke
+  brandStrength: 0.4830827
+  lightness: 0.5277173
+  saturation: 0.7003426
+  rhythmicContrast: 0.5662162
+purpose: []
